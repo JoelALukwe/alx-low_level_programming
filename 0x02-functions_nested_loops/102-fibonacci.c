@@ -1,6 +1,6 @@
 /*
 * File: 101-natural.c
-* Auth: joel  alukwe
+* Auth: vincent kip
 */
 
 
@@ -30,6 +30,3 @@ printf("%d\n", sum);
 
 return (0);
 }
-
-
-
