@@ -4,11 +4,11 @@
 void _puts(char *str);
 
 /**
-* main - Entry point
+* main_puts - Entry point 
 *
 * Return: Always 0 (Success)
 */
-int main(void)
+int main_puts(void)
 {
 /* Using the standard puts function */
 puts("\"Programming is like building a multilingual puzzle");
